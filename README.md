@@ -10,6 +10,93 @@
 
 ## Schedule
 
+### Things
+
+ - static and dynamic memory
+ - Compiler
+ - Assembly
+ - binary system
+ - boolean algebra
+ - algorythm
+ - threading
+ - OS vs programs
+ - system calls
+ - files file systems
+ - socket + io
+ - permissions
+ - memory management + leak
+ - pointers references
+ - stack vs heap
+ - data structures
+   - array
+   - list
+   - stack
+   - heap
+   - hashmap
+   - struct
+   - tupple
+   - lifo / fifo
+   - sorting (bubble, merge, quick)
+ - Design patterns
+   - Interpreter
+   - Iterator
+   - Observer
+   - Factory
+   - Facade
+ - STD
+   - Streams
+   - iterators
+ - OO
+   - Abstract class
+   - friend
+   - private / protected / public
+   - inheritance
+   - object composition
+   - object management
+   - object lifecycle management
+   - polymorphism
+ - Types
+   - Casting
+   - generics
+   - templates
+ - Testing
+ - Graphical interfaces
+ - Debugging
+   - Stack trace
+   - brakepoint
+   - frames
+   - naive methods
+ - Command line
+   - tee
+   - less
+ - Expressions
+ - Control flow
+   - while
+   - do
+   - for
+     - continue
+     - break
+   - if
+   - switch case
+ - Functions
+   - return value
+   - parameters
+   - reference
+   - recursion
+ - QT
+ - LIBs
+ - Preprocessor
+
+
+
+
+
+
+
+
+
+
+
 ### Fundamentals
 
 #### [1. Basics](week-01/)
