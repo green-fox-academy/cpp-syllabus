@@ -33,6 +33,10 @@
    - stack
    - heap
    - hashmap
+   - binary tree
+   - N-ary tree
+   - breadht first search
+   - depth first search
    - struct
    - tupple
    - lifo / fifo
